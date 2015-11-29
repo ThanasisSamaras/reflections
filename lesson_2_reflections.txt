@@ -1,0 +1,7 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+	Creating a git directory within a repository, is necessary for keeping track of repositorys's history
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+	The staging area is a necessary phase for creating commits between the working directory and the repository; it temporarily stores the files that will be part of a commit and passes this commit to the repository. 
